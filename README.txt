@@ -1,4 +1,4 @@
-Neila Bennamane Sorting Assignment Part 1 	Panther ID: 5715724
+
 The purpose of this program is to create 3 functions, each creates 10 txt files with a certain order 
 (random, sorted, or reverse) per function, in which each text file includes a certain ammount of values in one of the orders
 The program will create 30 text files of varying size, please be sure to have enough space on your computer to see the files.
